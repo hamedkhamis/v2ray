@@ -18,10 +18,10 @@ To use this project, simply import the subscription links into your preferred cl
 | Xray | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix) | 
 | Xray (Base64) | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix) | 
 | Singbox | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfasfi/mixLite.json) | --- | Singbox | --- |
-| Singbox (LocationBased) | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfasfi/mix.json) | --- | Singbox (LocationBased) | [Donate Link](https://api.yebekhe.link/singbox/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fdonated&limit=0&tun=true) |
-| Clash | [Group Mix Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=clash&process=full) | --- | Clash | [Donate Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fdonated&type=clash&process=full) |
-| Clash.Meta | [Group Mix Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=meta&process=full) | --- | Clash.Meta | [Donate Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fdonated&type=meta&process=full) |
-| Surfboard | [Group Mix Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=surfboard&process=full) | --- | Surfboard | [Donate Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fdonated&type=surfboard&process=full) |
+| Singbox (LocationBased) | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfasfi/mix.json) |
+| Clash | [Group Mix Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=clash&process=full) |
+| Clash.Meta | [Group Mix Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=meta&process=full) | 
+| Surfboard | [Group Mix Link](https://api.yebekhe.link/toClash/?url=https%3A%2F%2Fraw.githubusercontent.com%2Fyebekhe%2FTelegramV2rayCollector%2Fmain%2Fsub%2Fbase64%2Fmix&type=surfboard&process=full) | 
 
 
 ## Node Sources
