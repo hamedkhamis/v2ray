@@ -14,7 +14,7 @@ To use this project, simply import the subscription links into your preferred cl
 
 
 | Core | Mix | 
-| --- | --- | --- | --- | --- |
+| --- | --- | 
 | Xray | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/normal/mix) | 
 | Xray (Base64) | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/sub/base64/mix) | 
 | Singbox | [Group Mix Link](https://raw.githubusercontent.com/yebekhe/TelegramV2rayCollector/main/singbox/sfasfi/mixLite.json) | --- | Singbox | --- |
