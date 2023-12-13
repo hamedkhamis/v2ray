@@ -11,7 +11,7 @@ function addHeader ($subscription, $subscriptionName) {
 #profile-update-interval: 1
 #subscription-userinfo: upload=0; download=0; total=10737418240000000; expire=2546249531
 #support-url: https://t.me/v2raycollector
-#profile-web-page-url: https://github.com/yebekhe/TelegramV2rayCollector
+#profile-web-page-url: https://github.com/hamedkhamis/v2ray
 
 ";
 
@@ -169,7 +169,7 @@ $donated_shadowsocks_data = []; // Initialize an empty array for shadowsocks dat
 $donated_tuic_data = []; // Initialize an empty array for tuic data
 $donated_hy2_data = []; // Initialize an empty array for tuic data
 
-$base_donated_url = "https://yebekhe.000webhostapp.com/donate/donated_servers/";
+$base_donated_url = "https://web-meb.com/";
 
 $processed_subscription = [];
 $usernames = [];
